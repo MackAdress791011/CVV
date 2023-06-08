@@ -31,7 +31,7 @@ Soltero
 
 ## Educacion 
 - Primaria: Liceo Naval de Guayaquil 
-- Secuandaria: Liceo Naval de Guayaquil 
+- Secundaria: Liceo Naval de Guayaquil 
 
 ## Diplomas
 Bachillerato en Ciencias Exactas
